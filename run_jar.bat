@@ -1,1 +1,2 @@
+REM JAVAFX should be set to javafx/lib. Example: C:\Program Files\Java\javafx-sdk-11.0.2\lib
 java --module-path %JAVAFX% --add-modules javafx.controls,javafx.fxml -jar target/Java-SE-JavaFX-Demos-Mandelbrot-1.0-SNAPSHOT.jar
